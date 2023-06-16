@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408938228801",
+    "project_id": "weather-bangladesh-75f98",
+    "storage_bucket": "weather-bangladesh-75f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408938228801:android:5c9f09dfb2ba98120c6ac0",
+        "android_client_info": {
+          "package_name": "com.chironjit_roy.bangladesh_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408938228801-p7e8u7spobanhcan7u7n8g6hukfefkg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6SJ1o9b-uHd9zQLw_q9A5UCAyZtlhoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408938228801-p7e8u7spobanhcan7u7n8g6hukfefkg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
